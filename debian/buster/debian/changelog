@@ -1,3 +1,9 @@
+gazebo11 (11.15.1-1~buster) buster; urgency=medium
+
+  * gazebo11 11.15.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 03 Dec 2024 14:14:44 +0100
+
 gazebo11 (11.14.0-1~buster) buster; urgency=medium
 
   * gazebo11 11.14.0-1 release
